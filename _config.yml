@@ -6,14 +6,14 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "China"
-title                    : "Meiyu Zhong / Academic Page"
+locale                   : "Arizona"
+title                    : "Noel Teku / Academic Page"
 title_separator          : "-"
-name                     : &name "Meiyu Zhong"
+name                     : &name "Noel Teku"
 description              : &description "Ph.D. at University of Arizona Supervised by Prof. Ravi Tandon"
-url                      : https://MeiyuZhong.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://nteku1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "MeiyuZhong/MeiyuZhong.github.io"
+repository               : "nteku1/nteku1.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,13 +78,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Meiyu Zhong"
+  name             : "Noel Teku"
   avatar           : "IMG_1582.JPG"
   bio              : "ECE Ph.D at University of Arizona"
   location         : "Tucson, Arizona"
   employer         :
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "meiyuzhong@arizona.edu"
+  email            : "nteku1@arizona.edu"
   uri              :
   bitbucket        :
   codepen          :
@@ -92,7 +92,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "MeiyuZhong"
+  github           : "nteku1"
   google_plus      :
   keybase          :
   instagram        :
