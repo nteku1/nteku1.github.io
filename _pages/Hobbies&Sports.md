@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Hobbies"
-permalink: /Hobbies&Sport/
+permalink: /Hobbies&Sports/
 author_profile: true
 redirect_from:
   - /rs/
