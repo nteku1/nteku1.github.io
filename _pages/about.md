@@ -53,7 +53,7 @@ Work experience
 * **Software Engineer Intern** | **Garmin** | **May 2016 - Jul 2016**
   * Programmed teensy microcontroller in C with Arduino IDE to interface with a touch screen to control 
     vibrations of systems used for testing hardware. 
-* **Software Engineer Intern | Photometrics | Jun 2015 – Aug 2015**
+* **Software Engineer Intern** | **Photometrics** | **Jun 2015 – Aug 2015**
    * Acquired conceptual knowledge of image processing and parallel processing algorithms.
    * Debugged and analyzed image processing algorithms, using C, C++, Matlab, and CUDA.
   
