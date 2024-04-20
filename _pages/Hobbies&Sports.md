@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Hobbies and Sports"
-permalink: /Hobbies&Sports/
+title: "Hobbies"
+permalink: /Hobbies/
 author_profile: true
 redirect_from:
   - /rs/
@@ -9,3 +9,6 @@ redirect_from:
   
 ---
 
+* Playing Video Games
+* Going on long walks
+* Watching Comedy/Historic movies
