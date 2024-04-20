@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "/Hobbies and Sports"
+title: "Hobbies"
 permalink: /Hobbies&Sports/
 author_profile: true
 redirect_from:
