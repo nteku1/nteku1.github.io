@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "**Hobbies**"
+title: "Hobbies"
 permalink: /Hobbies/
 author_profile: true
 redirect_from:
