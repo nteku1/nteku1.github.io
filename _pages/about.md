@@ -22,35 +22,35 @@ Education
 * **Department of Electrical and Computer Engineering, University of Arizona, M.S. (Accelerated) 01/2016-12/2017**
   * Major in Electrical Engineering
   * GPA: 3.833
-* **Department of Electrical and Computer Engineering, University of Arizona, B.S. 08/2012-12/2016 **
+* **Department of Electrical and Computer Engineering, University of Arizona, B.S. 08/2012-12/2016**
   * Major in Electrical Engineering
   * Major GPA: 4.0
 
 Research Experience
 ===================
-* **Graduate Research Assistant | University of Arizona | Aug 2021 - present**
+* **Graduate Research Assistant** | **University of Arizona** | **Aug 2021 - present**
   1.  Communicating Classification Results over Noisy Channels (Finite blocklength, Quantization) - Advisor: Dr. Ravi Tandon
   2.  Cell-Free MIMO - Advisors: Dr. Ravi Tandon, Dr. Tamal Bose
     
-* **Graduate Research Assistant | University of Arizona | Apr 2018 - Jul 2021**
+* **Graduate Research Assistant** | **University of Arizona** | **Apr 2018 - Jul 2021**
   1. High Frequency Communications - Advisor: Dr. Tamal Bose
     * Cognitive Equalization for HF channels (Reinforcement Learning, Multi- Armed bandits, Equalization)
       
       
-* **Under/Graduate Research Assistant | University of Arizona | Aug 2016 - April 2017**
+* **Under/Graduate Research Assistant** | **University of Arizona** | **Aug 2016 - April 2017**
   1. Design of HF Receiver - Advisor: Dr. Tamal Bose
     * Verification of HF antenna.
 
 
 Work experience
 ===============
-* **Wireless Engineer Intern | Qualcomm | May 2023 - Aug 2023**
+* **Wireless Engineer Intern** | **Qualcomm** | **May 2023 - Aug 2023**
   * Analyzed effects of different signal/channel attributes on simulated uplink 5G waveforms
   * Gained experience reading 5G standards and understanding characteristics of uplink 5G waveforms.
-* **Software Engineer Intern | Garmin | May 2017 - Aug 2017**
+* **Software Engineer Intern** | **Garmin** | **May 2017 - Aug 2017**
   * Prototyped interface between UWB transceiver and Arduino/Teensy Microcontrollers for performance evaluation.
   * Developed a GUI using MySQL and Python that extracts data stored in servers and present analysis in real-time.
-* **Software Engineer Intern | Garmin | May 2016 - Jul 2016**
+* **Software Engineer Intern** | **Garmin** | **May 2016 - Jul 2016**
   * Programmed teensy microcontroller in C with Arduino IDE to interface with a touch screen to control 
     vibrations of systems used for testing hardware. 
 * **Software Engineer Intern | Photometrics | Jun 2015 – Aug 2015**
