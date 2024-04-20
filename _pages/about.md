@@ -62,11 +62,7 @@ Work experience
 
 Skills
 ======
-* Programming language: Python (proficient), Matlab (proficient), C/C++ (familiar), SQL (familiar). 
-*	Tools&Packages: PyTorch, HPC, Latex, NumPy, Pandas, Scikit-learn, TensorFlow, Git, Unix/Linux, etc.
-*	Robust machine learning: Certified Robustness, Adversarial Training.
-*	Fair machine learning: Group Fairness, Individual Fairness.
-
+* Programming language: Python, Matlab, C/C++. 
 
 Papers
 ======
