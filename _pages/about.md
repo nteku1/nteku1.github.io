@@ -29,8 +29,8 @@ Education
 Research Experience
 ===================
 * Graduate Research Assistant | University of Arizona | Aug 2021 - present
-  1. Cell-Free MIMO - Advisor: Dr. Ravi Tandon
-  2. Communicating Classification Results over Noisy Channels (Finite blocklength, Quantization) - Advisor: Dr. Ravi Tandon
+  1.  Communicating Classification Results over Noisy Channels (Finite blocklength, Quantization) - Advisor: Dr. Ravi Tandon
+  2.  Cell-Free MIMO - Advisors: Dr. Ravi Tandon, Dr. Tamal Bose
     
 * Graduate Research Assistant | University of Arizona | Apr 2018 - Jul 2021
   1. High Frequency Communications - Advisor: Dr. Tamal Bose
