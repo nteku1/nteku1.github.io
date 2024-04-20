@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my academic ocean!"
+title: "Introduction"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,47 +10,54 @@ redirect_from:
 
 Biography
 =========
-Hi, everyone! I am Meiyu Zhong, a Ph.D. student in the Department of Electrical and Computer Engineering, University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my M.S. degree from University of Southern California and B.S. degree in Shanghai University, majoring in Electrical Engineering. 
+Hi, everyone! I am Noel Teku, a Ph.D. student in the Department of Electrical and Computer Engineering at the University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my M.S. and B.S. degrees also from the University of Arizona, majoring in Electrical Engineering. 
 
 
 Education
 =========
-* Department of Electrical and Computer Engineering, University of Arizona, 08/2021-Present
+* Department of Electrical and Computer Engineering, University of Arizona, 01/2018-Present
   * Major in Electrical Engineering
-  * GPA: 4.0/4.0
-  * Research interest: Fairness and Robostness in machine learning
-* Ming Hsieh Department of Electrical and Computer Engineering, University of Southern California, 08/2019-05/2021
+  * GPA: 3.867
+  * Research interest: Wireless Communications, Machine Learning, Singal Processing
+* Department of Electrical and Computer Engineering, University of Arizona, M.S. (Accelerated) 01/2016-12/2017
   * Major in Electrical Engineering
-  * GPA: 3.77/4.0
-* Department of Electrical and Computer Engineering, Shanghai University, 09/2015-06/2019
+  * GPA: 3.833
+* Department of Electrical and Computer Engineering, University of Arizona, B.S. 08/2012-12/2016
   * Major in Electrical Engineering
-  * Major GPA: 3.77/4.0
+  * Major GPA: 4.0
 
 Research Experience
 ===================
 * Graduate Research Assistant | University of Arizona | Aug 2021 - present
-  1. Trustworthy Machine Learning Group - Advisor: Dr. Ravi Tandon
-     * Learning Fair Models via F-divergence Regularization (Fair Machine Learning)
+  1. Cell-Free MIMO - Advisor: Dr. Ravi Tandon
+  2. Communicating Classification Results over Noisy Channels (Finite blocklength, Quantization) - Advisor: Dr. Ravi Tandon
     
-* Graduate Research Assistant | University of Southern California | Aug 2019 - May 2021
-  1. Quantitative Evaluation and Design Group - Advisor: Dr. Leana Golubchik & Dr. Marco Paolieri
-    * Prevent Backdoor Attacks using matching network (Privacy, Federated learning, Machine learning)
-    * Neutral Architecture Search on Model Quantization (Auto-ML, Compression, Estimation)
-  2. Autonomous Networks Research Group - Advisor: Bhaskar Krishnamachari
-    * Robotic Network Routing Optimization using Multi-Armed Bandits (Network Optimization, Multi-Armed bandits)
- 
-* Graduate Research Assistant | Shanghai University | Sep 2017 - Jan 2019
-  1. Shanghai University Strive Team - Advisor: Wanmi Chen
-    * China Basketball Robot Competition (Image Recognition and Hardware Design)
-  2. Shanghai University Deep Learning Research Team - Advisor: Shenshen Gu
-    * Neural Network Optimization Using Complex Value (Neural Network Optimization, Machine learning)
+* Graduate Research Assistant | University of Arizona | Apr 2018 - Jul 2021
+  1. High Frequency Communications - Advisor: Dr. Tamal Bose
+    * Cognitive Equalization for HF channels (Reinforcement Learning, Multi- Armed bandits, Equalization)
+      
+      
+* Undergraduate/Graduate Research Assistant | University of Arizona | Aug 2016 - April 2017
+  1. Design of HF Receiver - Advisor: Dr. Tamal Bose
+    * Verification of HF antenna.
 
 
 Work experience
 ===============
-* Data Science intern | GiantKONE Elevator Co., Ltd. | Aug 2018 - Nov 2018
-  * Cleaned and pre-processing the tabular data
-  * Collaborated with a team to develop a machine learning model to do the prediction.
+* Wireless Engineering Intern | Qualcomm | May 2023 - Aug 2023
+  * Analyzed effects of different signal/channel attributes on simulated uplink 5G waveforms
+  * Gained experience reading 5G standards and understanding characteristics of uplink 5G waveforms.
+* Software Engineering intern | Garmin | May 2017 - Aug 2017
+  * Prototyped interface between UWB transceiver and Arduino/Teensy Microcontrollers for performance evaluation.
+  * Used MySQL and Python to create GUI that extracts data stored in servers and present analysis in real-time.
+* Software Engineering Intern | Garmin | May 2016 - Jul 2016
+  * Programmed teensy microcontroller in C with Arduino IDE to interface with a touch screen to control 
+    vibrations of systems used for testing hardware. 
+* Software Engineering Intern | Photometrics | Jun 2015 – Aug 2015
+   * Acquired conceptual knowledge of image processing and parallel processing algorithms.
+   * Debugged and analyzed image processing algorithms, using C, C++, Matlab, and CUDA.
+  
+.
 
 
 Skills
@@ -63,17 +70,23 @@ Skills
 
 Papers
 ======
-* Meiyu Zhong, Ravi Tandon, Learning Fair Classifiers via Min-Max F-divergence Regularization, 59th Annual Allerton Conference on Communications, Control and Computing, Monticello, IL, September 2023
-* Xingchen Li, Meiyu Zhong*, “Hardware Design of Basketball Robot based on Flyback Topology and Verilog HDL”, International Conference on Information Systems and Computer Aided Education (ICISCAE), 2018, Vol 2:508-510.
+* N. Teku, S. Adiga, R. Tandon, “Communicating Classification Results over Noisy Channels”, International Conference on Communications, 2024, To be publisihed.
+* N. Teku, T. Bose, “Cognitive Equalization for 2x2 Diversity HF MIMO Channels”, International Telemetering Conference, Vol .56, 2021.
+* Q. Nguyen, N. Teku and T. Bose, "Epsilon Greedy Strategy for Hyper Parameters Tuning of A Neural Network Equalizer," 2021 12th International Symposium on Image and Signal Processing and Analysis (ISPA), 2021, pp. 209-212
+* N. Teku, H. Asadi, T. Bose, M. Marefat, “Fully Cognitive Transceiver for High Frequency (HF) Applications”, SPIE Proceedings Vol. 11015, 2019.
+* N. Teku, T. Bose, “Cognitive Equalization for HF Channels”, International Telemetering Conference, Vol .54, 2018.
+* N. Teku, G. Gulati, H. Asadi, G. Vanhoy, A.H. Abdelrahman, K. Morris, T. Bose, H. Xin, “Design of A Long Range Cognitive HF Radio with A Tuned Compact Antenna”, International Telemetering Conference, Vol. 53, 2017.
+* 	G. Vanhoy, N. Teku, T. Bose, “Feature Selection for Cyclostationary-Based Signal Classification”, International Telemetering Conference, Vol. 53, 2017.
+
 
 
 Awards and Honors
 =================
-* Champion of the 19th China Basketball Robot Competitoon, Yibin, China, 2018 - 2019
-* Academic Excellent Scholarship Level I (top 5), Sep 2018 - Jul 2019
-* Hezong Welding Academic Scholarship Level II, Sep 2017 - Jul 2018
-* Hezong Welding Academic Scholarship Level III, Sep 2016 - Jul 2017
-* Leadership Scholarship, Sep 2015 - Jul 2016
+* NSF Bridge to Doctorate Fellowship (Spring 2017 – Summer 2018)
+* Wildcat Excellence Award (Fall 2012 – Spring 2016)
+* Baird Scholar Award (Fall 2012 – Spring 2016)
+* Outstanding Senior in ECE (Fall 2016)
+  
 
 
 
