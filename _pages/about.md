@@ -63,7 +63,8 @@ Work experience
 Skills
 ======
 * **Programming Languages**: Python, Matlab, C/C++.
-* **Tools & Packages**: Tensorflow, Numpy, Latex, Linux, 
+* **Tools & Packages**: Tensorflow, Numpy, Latex, Linux,
+* Wireless Communications, Machine Learning, Signal Processing
 
 Papers
 ======
