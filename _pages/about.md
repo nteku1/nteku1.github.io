@@ -15,14 +15,14 @@ Hi, everyone! I am Noel Teku, a Ph.D. student in the Department of Electrical an
 
 Education
 =========
-* **Department of Electrical and Computer Engineering, University of Arizona, 01/2018-Present**
+* **Department of ECE, University of Arizona, 01/2018-Present**
   * Major in Electrical Engineering
   * GPA: 3.867
-  * Research interest: Wireless Communications, Machine Learning, Singal Processing
-* **Department of Electrical and Computer Engineering, University of Arizona, M.S. (Accelerated) 01/2016-12/2017**
+  * Research interests: Wireless Communications, Machine Learning, Singal Processing
+* **Department of ECE, University of Arizona, M.S. (Accelerated) 01/2016-12/2017**
   * Major in Electrical Engineering
   * GPA: 3.833
-* **Department of Electrical and Computer Engineering, University of Arizona, B.S. 08/2012-12/2016**
+* **Department of ECE, University of Arizona, B.S. 08/2012-12/2016**
   * Major in Electrical Engineering
   * Major GPA: 4.0
 
@@ -68,7 +68,7 @@ Skills
 
 Papers
 ======
-* N. Teku, S. Adiga, R. Tandon, “Communicating Classification Results over Noisy Channels”, IEEE International Conference on Communications, 2024, To be publisihed.
+* N. Teku, S. Adiga, R. Tandon, “Communicating Classification Results over Noisy Channels”, IEEE International Conference on Communications, 2024, To be published.
 * N. Teku, T. Bose, “Cognitive Equalization for 2x2 Diversity HF MIMO Channels”, International Telemetering Conference, Vol .56, 2021.
 * Q. Nguyen, N. Teku and T. Bose, "Epsilon Greedy Strategy for Hyper Parameters Tuning of A Neural Network Equalizer," 2021 12th International Symposium on Image and Signal Processing and Analysis (ISPA), 2021, pp. 209-212
 * N. Teku, H. Asadi, T. Bose, M. Marefat, “Fully Cognitive Transceiver for High Frequency (HF) Applications”, SPIE Proceedings Vol. 11015, 2019.
