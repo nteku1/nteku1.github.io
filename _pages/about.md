@@ -16,15 +16,12 @@ Hi, everyone! I am Noel Teku, a Ph.D. student in the Department of Electrical an
 Education
 =========
 * **Department of ECE, University of Arizona, 01/2018-Present**
-  * Major in Electrical Engineering
-  * GPA: 3.867
+  * Major in Electrical Engineering, GPA: 3.867
   * Research interests: Wireless Communications, Machine Learning, Singal Processing
 * **Department of ECE, University of Arizona, M.S. (Accelerated) 01/2016-12/2017**
-  * Major in Electrical Engineering
-  * GPA: 3.833
+  * Major in Electrical Engineering, GPA: 3.833
 * **Department of ECE, University of Arizona, B.S. 08/2012-12/2016**
-  * Major in Electrical Engineering
-  * Major GPA: 4.0
+  * Major in Electrical Engineering, Major GPA: 4.0
 
 Research Experience
 ===================
