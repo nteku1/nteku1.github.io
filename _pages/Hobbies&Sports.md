@@ -9,7 +9,6 @@ redirect_from:
   
 ---
 
-Papers
 ======
 * N. Teku, S. Adiga, R. Tandon, “Communicating Classification Results over Noisy Channels”, IEEE International Conference on Communications, 2024, To be published.
 * N. Teku, T. Bose, “Cognitive Equalization for 2x2 Diversity HF MIMO Channels”, International Telemetering Conference, Vol .56, 2021.
