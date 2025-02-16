@@ -13,16 +13,6 @@ About me
 Hi, everyone! I am Noel Teku, a Ph.D. student in the Department of Electrical and Computer Engineering at the University of Arizona. I am very lucky to work with Dr. Ravi Tandon. Previously, I received my M.S. and B.S. degrees also from the University of Arizona, majoring in Electrical Engineering. 
 
 
-Education
-=========
-* **Department of ECE, University of Arizona, 01/2018-Present**
-  * Major in Electrical Engineering, GPA: 3.867
-* **Department of ECE, University of Arizona, M.S. (Accelerated) 01/2016-12/2017**
-  * Major in Electrical Engineering, GPA: 3.833
-* **Department of ECE, University of Arizona, B.S. 08/2012-12/2016**
-  * Major in Electrical Engineering, Major GPA: 4.0
-
-
 
 Research Interests
 ======
