@@ -24,6 +24,9 @@ author_profile: true
 
 
  ![Alt text](../images/cellfree.png)
+
+
+ 
 **High Frequency Communications**: Researched how adaptive equalization and reinforcement learning algorithms can be used to improve transmissions made over the high frequency (HF) Band.
 
 
